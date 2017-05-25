@@ -1,0 +1,25 @@
+{
+  "name": "meanauthapp",
+  "version": "1.0.0",
+  "description": "Mean stack authentication app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "angular2-csv": "^0.2.1",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "gridfs-stream": "^1.1.1",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "primeng": "^4.0.1"
+  },
+  "author": "Prasad Amberkar",
+  "license": "ISC"
+}
